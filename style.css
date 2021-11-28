@@ -1,0 +1,20 @@
+#Timer{
+    font-size: 25px;
+    margin-left: 600px;
+}
+
+body{
+    background-color: greenyellow;
+}
+
+#draw_text{
+    color: red;
+ font-size: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+#score{
+
+    font-family: initial;
+    font-size: 25px;
+}
